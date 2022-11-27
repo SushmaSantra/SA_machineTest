@@ -1,4 +1,4 @@
-# app-v2
+# Basic Vue App -- Machine Test
 
 ## Project setup
 ```
