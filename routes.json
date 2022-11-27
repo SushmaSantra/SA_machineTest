@@ -1,0 +1,7 @@
+{
+    "/country/read": "/countries",
+    "/country/create": "/countries",
+    "/country1/read/:id": "/countries/:id",
+    "/continent/read*": "/continents"
+}
+  
